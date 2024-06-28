@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "html-to-json-parser": "^2.0.1",
     "node-fetch": "^2.7.0",
     "react": "^18.3.1",
@@ -17,6 +18,7 @@
   },
   "devDependencies": {
     "@types/bun": "latest",
+    "@types/jquery": "^3.5.30",
     "@types/node-fetch": "^2.6.11",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
